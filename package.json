@@ -19,8 +19,8 @@
     "async": "^1.5.2",
     "chalk": "^1.0.0",
     "lodash": "^4.0.0",
-    "nib": "^1.1.0",
-    "stylus": "^0.54.0"
+    "nib": "https://github.com/stylus/nib.git#fb3c70cfaac29f4d6efa8d568c29e20ba2dcd42d",
+    "stylus": "^0.57.0"
   },
   "devDependencies": {
     "grunt": "^1.0.0",
